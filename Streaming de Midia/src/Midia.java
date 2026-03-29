@@ -2,7 +2,7 @@ public abstract class Midia {
     protected Plataforma plataforma;
     protected String titulo;
 
-    public void setPlataforma(Plataforma plataforma0) {
+    public void setPlataforma(Plataforma plataforma) {
         this.plataforma = plataforma;
     }
 
